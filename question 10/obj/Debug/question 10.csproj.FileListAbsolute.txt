@@ -1,0 +1,9 @@
+C:\Users\Thanasekaran\Documents\Visual Studio 2012\Projects\Basicquestion2\question 10\bin\Debug\question 10.exe.config
+C:\Users\Thanasekaran\Documents\Visual Studio 2012\Projects\Basicquestion2\question 10\bin\Debug\question 10.exe
+C:\Users\Thanasekaran\Documents\Visual Studio 2012\Projects\Basicquestion2\question 10\bin\Debug\question 10.pdb
+C:\Users\Thanasekaran\Documents\Visual Studio 2012\Projects\Basicquestion2\question 10\obj\Debug\question 10.exe
+C:\Users\Thanasekaran\Documents\Visual Studio 2012\Projects\Basicquestion2\question 10\obj\Debug\question 10.pdb
+C:\Users\Thanasekaran\Documents\Visual Studio 2012\Projects\Basicquestion2\question 10\obj\Debug\question 10.csprojResolveAssemblyReference.cache
+C:\Users\Thanasekaran\Documents\Visual Studio 2012\Projects\c# problem solving\question 10\bin\Debug\question 10.exe.config
+C:\Users\Thanasekaran\Documents\Visual Studio 2012\Projects\c# problem solving\question 10\obj\Debug\question 10.exe
+C:\Users\Thanasekaran\Documents\Visual Studio 2012\Projects\c# problem solving\question 10\obj\Debug\question 10.pdb

@@ -1,0 +1,5 @@
+c:\users\thanasekaran\documents\visual studio 2012\Projects\Basicquestion2\question 3 s2\bin\Debug\question 3 s2.exe.config
+c:\users\thanasekaran\documents\visual studio 2012\Projects\Basicquestion2\question 3 s2\bin\Debug\question 3 s2.exe
+c:\users\thanasekaran\documents\visual studio 2012\Projects\Basicquestion2\question 3 s2\bin\Debug\question 3 s2.pdb
+c:\users\thanasekaran\documents\visual studio 2012\Projects\Basicquestion2\question 3 s2\obj\Debug\question 3 s2.exe
+c:\users\thanasekaran\documents\visual studio 2012\Projects\Basicquestion2\question 3 s2\obj\Debug\question 3 s2.pdb

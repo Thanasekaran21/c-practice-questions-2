@@ -1,0 +1,6 @@
+C:\Users\Thanasekaran\Documents\Visual Studio 2012\Projects\Basicquestion2\question 6\bin\Debug\question 6.exe.config
+C:\Users\Thanasekaran\Documents\Visual Studio 2012\Projects\Basicquestion2\question 6\bin\Debug\question 6.exe
+C:\Users\Thanasekaran\Documents\Visual Studio 2012\Projects\Basicquestion2\question 6\bin\Debug\question 6.pdb
+C:\Users\Thanasekaran\Documents\Visual Studio 2012\Projects\Basicquestion2\question 6\obj\Debug\question 6.csprojResolveAssemblyReference.cache
+C:\Users\Thanasekaran\Documents\Visual Studio 2012\Projects\Basicquestion2\question 6\obj\Debug\question 6.exe
+C:\Users\Thanasekaran\Documents\Visual Studio 2012\Projects\Basicquestion2\question 6\obj\Debug\question 6.pdb

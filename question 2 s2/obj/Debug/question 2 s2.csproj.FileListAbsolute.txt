@@ -1,0 +1,8 @@
+c:\users\thanasekaran\documents\visual studio 2012\Projects\Basicquestion2\question 2 s2\bin\Debug\question 2 s2.exe.config
+c:\users\thanasekaran\documents\visual studio 2012\Projects\Basicquestion2\question 2 s2\bin\Debug\question 2 s2.exe
+c:\users\thanasekaran\documents\visual studio 2012\Projects\Basicquestion2\question 2 s2\bin\Debug\question 2 s2.pdb
+c:\users\thanasekaran\documents\visual studio 2012\Projects\Basicquestion2\question 2 s2\obj\Debug\question 2 s2.exe
+c:\users\thanasekaran\documents\visual studio 2012\Projects\Basicquestion2\question 2 s2\obj\Debug\question 2 s2.pdb
+C:\Users\Thanasekaran\Documents\Visual Studio 2012\Projects\c# problem solving\question 2\bin\Debug\question 2 s2.exe.config
+C:\Users\Thanasekaran\Documents\Visual Studio 2012\Projects\c# problem solving\question 2\obj\Debug\question 2 s2.exe
+C:\Users\Thanasekaran\Documents\Visual Studio 2012\Projects\c# problem solving\question 2\obj\Debug\question 2 s2.pdb

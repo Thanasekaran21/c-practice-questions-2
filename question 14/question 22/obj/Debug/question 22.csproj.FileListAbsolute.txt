@@ -1,0 +1,6 @@
+C:\Users\Thanasekaran\Documents\Visual Studio 2012\Projects\question 14\question 22\bin\Debug\question 22.exe.config
+C:\Users\Thanasekaran\Documents\Visual Studio 2012\Projects\question 14\question 22\bin\Debug\question 22.exe
+C:\Users\Thanasekaran\Documents\Visual Studio 2012\Projects\question 14\question 22\bin\Debug\question 22.pdb
+C:\Users\Thanasekaran\Documents\Visual Studio 2012\Projects\question 14\question 22\obj\Debug\question 22.csprojResolveAssemblyReference.cache
+C:\Users\Thanasekaran\Documents\Visual Studio 2012\Projects\question 14\question 22\obj\Debug\question 22.exe
+C:\Users\Thanasekaran\Documents\Visual Studio 2012\Projects\question 14\question 22\obj\Debug\question 22.pdb

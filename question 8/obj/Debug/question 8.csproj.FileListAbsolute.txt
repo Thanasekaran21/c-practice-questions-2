@@ -1,0 +1,6 @@
+C:\Users\Thanasekaran\Documents\Visual Studio 2012\Projects\Basicquestion2\question 8\bin\Debug\question 8.exe.config
+C:\Users\Thanasekaran\Documents\Visual Studio 2012\Projects\Basicquestion2\question 8\bin\Debug\question 8.exe
+C:\Users\Thanasekaran\Documents\Visual Studio 2012\Projects\Basicquestion2\question 8\bin\Debug\question 8.pdb
+C:\Users\Thanasekaran\Documents\Visual Studio 2012\Projects\Basicquestion2\question 8\obj\Debug\question 8.csprojResolveAssemblyReference.cache
+C:\Users\Thanasekaran\Documents\Visual Studio 2012\Projects\Basicquestion2\question 8\obj\Debug\question 8.exe
+C:\Users\Thanasekaran\Documents\Visual Studio 2012\Projects\Basicquestion2\question 8\obj\Debug\question 8.pdb
